@@ -48,18 +48,9 @@ I am a Software Developer specializing in building high-performance, mobile-firs
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=38B2AC&title_color=3ECF8E" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/your-profile-link](https://www.linkedin.com/in/your-profile-link)
-- **Email:** your.email@example.com
-- **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
+- **Email:** private.tommy.dev@gmail.com
+- **Portfolio:** https://hwa-portfolio.vercel.app/
 
 *"Design for mobile-first. Build for scale. Ship with type safety."*
