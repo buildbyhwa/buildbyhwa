@@ -39,15 +39,6 @@ I am a Software Developer specializing in building high-performance, mobile-firs
 
 ---
 
-### 📂 Featured Project: PURESPACE
-
-**PURESPACE** is a modern, mobile-first real estate platform built to demonstrate high-end engineering and premium UX.
-* **Stack:** Astro, React, TypeScript, Tailwind CSS v4, Zustand, Supabase.
-* **Features:** Zero-reload i18n language routing, global state management, secure database triggers, and a "Sunlight/Moonlight" intelligent theme architecture.
-* **Architecture:** Fully normalized PostgreSQL database with strict Row Level Security (RLS) policies and integrated object storage.
-
----
-
 ### 📫 Let's Connect
 
 - **Email:** private.tommy.dev@gmail.com
