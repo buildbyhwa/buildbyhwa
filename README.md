@@ -1,6 +1,6 @@
 # Hi there, I'm Han Win Aung 👋
 
-### Software Developer | Astro | TypeScript | Mobile-First Web Architecture
+### Software Developer | Astro | Angular | React | TypeScript | Mobile-First Web Architecture
 
 I am a Software Developer specializing in building high-performance, mobile-first web applications. I bridge the gap between robust backend architecture and premium front-end user experiences, leveraging the modern TypeScript ecosystem to build platforms that are secure, scalable, and beautifully designed.
 
